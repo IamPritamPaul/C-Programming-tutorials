@@ -1,0 +1,101 @@
+Basics Problems:- 
+Write a program to print 3 names in 3 different lines.
+Write a program to print the sum, difference, multiplication, division of two numbers.
+Write a program to input two integers and swap them (with using 3rd variable)
+Write a program to input two integers and swap them (without using 3rd variable)
+Write a program to input one integer and one float number and find their Sum.
+Write a program to input one fractional number and printf the integer part and fractional part differently. 
+Write a program to input any character and print the ASCII value of that character.
+
+
+Control Statements:-
+If-Else 
+Write a program to input any number and check whether it is positive or negative or zero. 
+Write a program to input any number and print “correct” if it is 10 else print “Incorrect”.
+Write a program to input any number and check whether it is even or odd. 
+Write a program to input any year and check whether it is leap year or not.
+Write a program to input any float number and round off the number.
+Write a program to find the roots of a quadratic equation and find the real and imaginary roots. If the roots are real then print them else print “roots are imaginary”.
+Write a program to check if a person is eligible to vote in India  or not.
+Write a program to input three numbers and find the smallest one (using a logical operator). 
+Write a program to input three numbers and find the smallest one (using else-if ladder).
+Write a program to input three numbers and find the smallest one (using nested if else). 
+Write a program to input three numbers and find the smallest one (using ternary operator or conditional operator). 
+Write a program to input any character and check whether it is a vowel or not(using if statement and logical OR).
+Write a program to input any character and check either it is capital letter or it is a small letter or it is a number.
+Write a program to input any alphabet and print the capital letter if the character is small and print the small letter if the character is capital letter.
+
+Switch Case
+Write a program to input any character and check whether it is a vowel or not (using switch case).
+Write a program to input any number and print the corresponding month using switch case. 
+Write a program to input two integers and find their sum , difference, multiplication, division and modulus using switch case. 
+Write a Program to input a number & print the corresponding Week day using switch case. (week starts by sunday)
+Write a program to find out the number of notes required for a given amount of money. (Start by 2000 Rs Note, 500, 200, 100, 50, 20, 10, 5, 2, 1)
+
+
+For Loop
+Write a program to print any name for 10 times.(using for loop) 
+Write a program to print all two digit odd numbers in reverse order.(using for loop) 
+Write a program to input ‘n’ and find the sum of n natural numbers.(using for loop) 
+Write a program to input any numbers and find the factorial of that number.(using for loop) 
+Write a Program to multiply two positive numbers without using * operator.
+Write a Program to input an integer and find out the sum of all the digits of that number (using for loop).
+Write a Program to input any Number and count the number of digits using for loop.
+Write a program to input lower limit and upper limit and print all the odd numbers in that range.(using for loop) 
+Write a program to input any number and print the multiplication table of that number.(using for loop) 
+Write a program to input any number and print twenty numbers in descending order from the number.(using for loop) 
+Write a program to calculate x^y without using any library function.(using for loop) 
+Write a program to input any number and the factors of that number.(using for loop) 
+Write a program to input any number and check if it is perfect or not (factors’ sum)(using for loop).
+Write a program to input any number and check if it is a strong number (digits’ factorials’ sum is equal to that number) or not using for loop.
+Write a program to input any number and count the number of factors of that number.(using for loop) 
+Write a program to input any number and check it is prime or not.(using for loop)
+Write a Program to input any number and check whether it is Armstrong Number (A three digit number in which the sum of cube of all digits is equal to the number. Eg:- 371=33+73+13) or not using for loop.
+Write a program to print fibonacci series up to nth term.(using for loop) 
+Write a program to print fibonacci series up to n.(using for loop) 
+Write a program to input any number and check whether it is palindrome or not (using for loop).
+
+write a program to input lower limit and upper limit and print the multiplication table of each number.(using for loop) 
+write a program to input lower limit and upper limit and print the factorial of each number.(using for loop) 
+write a program to input lower limit and upper limit and print the factors of each number.(using for loop) 
+write a program to input lower limit and upper limit and print the no of factors of each number.(using for loop) 
+Write a program to input lower limit and upper limit and print all the prime numbers in that range.
+Write a Program to input lower limit and upper limit and print all the perfect numbers in that range.
+Write a program to input lower limit and upper limit and print all the strong numbers in that range.
+Write a program to input lower limit and upper limit and print all the armstrong numbers in that range. 
+
+
+
+WHILE :-
+    
+Write a program to print the first ‘n’ natural number in ascending and descending order.(using while loop) 
+Write a program to input any number ‘n’ and printf the sum of n natural numbers .(using while loop) 
+Write a program to input any number and print the factorial of that number(using while loop) 
+Write a program to input any number & print 20 numbers in descending order from that number.(using while loop) 
+Write a program to input lower limit and upper limit and print all the odd numbers in that range.(using while loop) 
+Write a program to input any number and print the multiplication table of that number.(using while loop) 
+Write a program to calculate x^y without using any library function(using while loop) 
+Write a program to input any number and the factors of that number(using while loop) 
+Write a program to input any number and check it is perfect or not(factors’ sum)(using while loop) 
+Write a program to input any number and check it is prime or not.(using while loop) 
+Write a program to input any number and count the number of factors of that number.(using while loop) 
+write a program to input lower limit and upper limit and print the multiplication table of each number.(using while loop) 
+write a program to input lower limit and upper limit and print the factorial of each number.(using while loop) 
+write a program to input lower limit and upper limit and print the factors of each number.(using while loop) 
+write a program to input lower limit and upper limit and print the no of factors of each number.(using while loop) 
+Write a program to print fibonacci series upto nth term.(using while loop) 
+Write a program to print fibonacci series upto n.(using while loop) 
+Write a program to input any number and check whether it is palindrome or not(using while loop) 
+Write a program to input any number 'n' and digit 'd' also and check the frequency of d in n.
+Write a program to input any number and check whether it is a power of 2 or not. (using while loop)
+Write a program to input any number and check whether it is a power of 2 or not. (using bitwise operator)
+
+
+DO-WHILE :-
+
+Write a program to input any number and check whether it is palindrome or not(using do-while loop) 
+Write a program to input any number and check it is strong number or not.(using do-while) 
+Write a program to input any number and count the prime digits(using do-while) 
+Write a program to input any number and replace all the prime digits by 1(using do-while) 
+Write a program to input any number and find the sum of the digits of that number.(using do-while loop) 
+Write a program to input any number and find the sum of the digits of that number until you get a single digit.(using do-while loop)
