@@ -9,7 +9,8 @@ Write a program to input any character and print the ASCII value of that charact
 
 
 Control Statements:-
-If-Else 
+
+If-Else:  
 Write a program to input any number and check whether it is positive or negative or zero. 
 Write a program to input any number and print “correct” if it is 10 else print “Incorrect”.
 Write a program to input any number and check whether it is even or odd. 
@@ -25,7 +26,7 @@ Write a program to input any character and check whether it is a vowel or not(us
 Write a program to input any character and check either it is capital letter or it is a small letter or it is a number.
 Write a program to input any alphabet and print the capital letter if the character is small and print the small letter if the character is capital letter.
 
-Switch Case
+Switch Case:
 Write a program to input any character and check whether it is a vowel or not (using switch case).
 Write a program to input any number and print the corresponding month using switch case. 
 Write a program to input two integers and find their sum , difference, multiplication, division and modulus using switch case. 
@@ -33,7 +34,7 @@ Write a Program to input a number & print the corresponding Week day using switc
 Write a program to find out the number of notes required for a given amount of money. (Start by 2000 Rs Note, 500, 200, 100, 50, 20, 10, 5, 2, 1)
 
 
-For Loop
+For Loop:
 Write a program to print any name for 10 times.(using for loop) 
 Write a program to print all two digit odd numbers in reverse order.(using for loop) 
 Write a program to input ‘n’ and find the sum of n natural numbers.(using for loop) 
@@ -66,8 +67,7 @@ Write a program to input lower limit and upper limit and print all the armstrong
 
 
 
-WHILE :-
-    
+WHILE :  
 Write a program to print the first ‘n’ natural number in ascending and descending order.(using while loop) 
 Write a program to input any number ‘n’ and printf the sum of n natural numbers .(using while loop) 
 Write a program to input any number and print the factorial of that number(using while loop) 
@@ -92,7 +92,6 @@ Write a program to input any number and check whether it is a power of 2 or not.
 
 
 DO-WHILE :-
-
 Write a program to input any number and check whether it is palindrome or not(using do-while loop) 
 Write a program to input any number and check it is strong number or not.(using do-while) 
 Write a program to input any number and count the prime digits(using do-while) 
